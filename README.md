@@ -5,8 +5,6 @@ Você acabou de pegar uma nova tarefa no JIRA que pede para que seja implementad
 
 Por Exemplo:
 
-# PHP
-
 ```php
 repita(3, "A") // "AAA"
 repita(5, "Oi") // "OiOiOiOiOi"
